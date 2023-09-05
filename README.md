@@ -13,7 +13,7 @@ npm install
 npm start
 ```
 
-Now, The Front end API will be running at `localhost:3000`.
+Now, The Front end React App will be running at `localhost:3000`.
 
 <br>
 
